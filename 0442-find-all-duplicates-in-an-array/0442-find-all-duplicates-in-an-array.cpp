@@ -1,15 +1,18 @@
 class Solution {
 public:
     vector<int> findDuplicates(vector<int>& nums) {
-        sort( nums.begin(), nums.end() );
-
         vector<int> ans;
+        vector<int> freq(nums.size() +1, 0);
         
-        for( int i=0 ; i<nums.size()-1 ; i++ ){
-            if( nums[i]==nums[i+1] ){
-               ans.push_back(nums[i]);            
-               }
+        // Step 2: Loop chala kar count karo aur duplicate store karo
+        for( int i=0; i < nums.size(); i++ ){
+          int x = nums[i];
+          freq[x]++;
+          if(freq[x]==2){
+            ans.push_back(x);
+          }
         }
-       return ans;
+        
+        return ans;
     }
 };
