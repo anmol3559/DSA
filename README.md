@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anmol3559/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/anmol3559/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anmol3559/DSA/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/anmol3559/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Bit Manipulation
