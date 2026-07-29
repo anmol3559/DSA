@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anmol3559/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/anmol3559/DSA/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/anmol3559/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anmol3559/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anmol3559/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anmol3559/DSA/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/anmol3559/DSA/tree/master/0476-number-complement) |
