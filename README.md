@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anmol3559/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anmol3559/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
 | [1207-unique-number-of-occurrences](https://github.com/anmol3559/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anmol3559/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anmol3559/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
