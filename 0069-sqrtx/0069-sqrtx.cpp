@@ -2,21 +2,21 @@ class Solution {
 public:
     long long int binarySearch(int n){
         long long int ans = -1;
-        int s = 0;
-        int e = n;
-        long long int mid = s + (e - s)/2;
-        while(s<=e){
+        int start = 0;
+        int end = n;
+        long long int mid = start + (end - start)/2;
+        while(start<=end){
             if( (mid*mid) == n){
                 return mid;
             }
             else if( (mid*mid) < n){
                 ans = mid;
-                s = mid + 1;
+                start = mid + 1;
             }
             else{
-                e =mid - 1;
+                end =mid - 1;
             }
-            mid = s + (e - s)/2;
+            mid = start + (end - start)/2;
         }
         return ans;
     }
