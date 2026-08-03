@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anmol3559/DSA/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anmol3559/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/anmol3559/DSA/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/anmol3559/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Bit Manipulation
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anmol3559/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anmol3559/DSA/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/anmol3559/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anmol3559/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/anmol3559/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anmol3559/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anmol3559/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/anmol3559/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
