@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anmol3559/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/anmol3559/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anmol3559/DSA/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/anmol3559/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anmol3559/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/anmol3559/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anmol3559/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anmol3559/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
