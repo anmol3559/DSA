@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anmol3559/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anmol3559/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/anmol3559/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anmol3559/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/anmol3559/DSA/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
