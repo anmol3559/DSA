@@ -6,11 +6,11 @@ public:
         int end = matrix[0].size() - 1;
 
         while(start<matrix.size() && end>=0){
-            int element = matrix[start][end];
-            if( element == target){
+
+            if( matrix[start][end] == target){
                 return 1;
             }
-            else if( element < target){
+            else if( matrix[start][end] < target){
                 start ++;
             }
             else{
