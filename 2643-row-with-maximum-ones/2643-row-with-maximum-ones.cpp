@@ -15,11 +15,6 @@ public:
                 max_1s = count;
                 max_row = i;
             }
-            
-            if( max_1s == 0){
-                max_row = 0;
-            }
-            
         }
         return {max_row , max_1s};
     }
