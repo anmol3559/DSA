@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anmol3559/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anmol3559/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/anmol3559/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmol3559/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anmol3559/DSA/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/anmol3559/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anmol3559/DSA/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anmol3559/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
@@ -138,4 +140,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anmol3559/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmol3559/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/anmol3559/DSA/tree/master/2643-row-with-maximum-ones) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
