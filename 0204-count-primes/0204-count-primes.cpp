@@ -8,10 +8,9 @@ public:
         for(int i=2; i<n; i++){
             if(prime[i]){
                 cnt++;
-
-            }
-            for(int j=2*i; j<n; j=j+i){
-                prime[j] = false;
+                for(int j=2*i; j<n; j=j+i){
+                    prime[j] = false;
+                }
             }
         }
         return cnt;
