@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anmol3559/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anmol3559/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/anmol3559/DSA/tree/master/0910-smallest-range-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmol3559/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/anmol3559/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anmol3559/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anmol3559/DSA/tree/master/0231-power-of-two) |
+| [0910-smallest-range-ii](https://github.com/anmol3559/DSA/tree/master/0910-smallest-range-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anmol3559/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anmol3559/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/anmol3559/DSA/tree/master/0910-smallest-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
+| [0910-smallest-range-ii](https://github.com/anmol3559/DSA/tree/master/0910-smallest-range-ii) |
 ## String
 |  |
 | ------- |
