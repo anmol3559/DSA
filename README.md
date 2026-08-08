@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anmol3559/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmol3559/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anmol3559/DSA/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/anmol3559/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anmol3559/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anmol3559/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anmol3559/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anmol3559/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anmol3559/DSA/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anmol3559/DSA/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
 | [0910-smallest-range-ii](https://github.com/anmol3559/DSA/tree/master/0910-smallest-range-ii) |
 ## String
