@@ -10,7 +10,6 @@ public:
     int mini , maxi;
     for(int i=1; i<nums.size(); i++){
       
-
         mini = min( nums[0] + k , nums[i] - k);
         maxi = max( nums[nums.size() - 1] - k , nums[i-1] + k);
 
