@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
-    
         int max_row = 0;
         int max_1s = INT_MIN;
         for(int i=0; i<mat.size(); i++){
