@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anmol3559/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anmol3559/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anmol3559/DSA/tree/master/0509-fibonacci-number) |
 | [0910-smallest-range-ii](https://github.com/anmol3559/DSA/tree/master/0910-smallest-range-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anmol3559/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anmol3559/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/anmol3559/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anmol3559/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anmol3559/DSA/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/anmol3559/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anmol3559/DSA/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anmol3559/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
