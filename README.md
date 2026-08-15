@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anmol3559/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmol3559/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anmol3559/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anmol3559/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anmol3559/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anmol3559/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anmol3559/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/anmol3559/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/anmol3559/DSA/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/anmol3559/DSA/tree/master/1009-complement-of-base-10-integer) |
 ## Math
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anmol3559/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anmol3559/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anmol3559/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anmol3559/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/anmol3559/DSA/tree/master/0443-string-compression) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anmol3559/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/anmol3559/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmol3559/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anmol3559/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anmol3559/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anmol3559/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -196,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anmol3559/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anmol3559/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anmol3559/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
