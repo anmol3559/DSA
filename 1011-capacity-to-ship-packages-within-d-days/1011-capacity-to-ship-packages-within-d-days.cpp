@@ -1,17 +1,20 @@
 class Solution {
-    bool isPossible(const vector<int>& weights, int days, int mid, int index, int currentSum, int daysCount){
-        if( index == weights.size()) return true;
-         if(weights[index] > mid) return false;
-
-         if(currentSum + weights[index] <= mid){
-            return isPossible(weights, days, mid, index + 1, currentSum + weights[index], daysCount);
-         }
-         else{
-            if(daysCount + 1 > days){
-                return false;
+    bool isPossible(vector<int>& weights, int days, int mid){
+        int daysCount = 1;
+        int currentSum = 0;
+        for(int i=0; i<weights.size(); i++){
+            if( currentSum + weights[i] <= mid){
+                currentSum += weights[i];
             }
-            return isPossible(weights, days, mid, index + 1, weights[index], daysCount + 1);
-         }
+            else{
+                daysCount ++;
+                if(daysCount > days || weights[i] > mid){
+                    return false;
+                }
+                currentSum = weights[i];
+            }
+        }
+        return true;
     }
 public:
     int shipWithinDays(vector<int>& weights, int days) {
@@ -27,7 +30,7 @@ public:
         int mid = s + (e - s)/2;
         while(s <= e){
 
-            if(isPossible(weights , days ,mid , 0, 0, 1)){
+            if(isPossible(weights , days ,mid)){
                 ans = mid;
                 e = mid - 1;
             }
