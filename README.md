@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anmol3559/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anmol3559/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anmol3559/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anmol3559/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/anmol3559/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anmol3559/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/anmol3559/DSA/tree/master/0162-find-peak-element) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anmol3559/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anmol3559/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anmol3559/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anmol3559/DSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anmol3559/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anmol3559/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
