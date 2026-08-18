@@ -1,20 +1,20 @@
 class Solution {
-    bool isPossible(vector<int>& nums, int k, int mid){
-        int integerCount = 1;
-        int numsSum = 0;
-        for(int i=0; i<nums.size(); i++){
-            if( numsSum + nums[i] <= mid){
-                numsSum += nums[i];
-            }
-            else{
-                integerCount ++;
-                if(integerCount > k || nums[i] > mid){
-                    return false;
-                }
-                numsSum = nums[i];
-            }
+    bool largest(vector<int>& nums, int k, int mid){
+      int integerCount = 1;
+      int nums_sum = 0;
+      for(int i=0; i<nums.size(); i++){
+        if(nums_sum + nums[i] <= mid){
+            nums_sum += nums[i];
         }
-        return true;
+        else{
+            integerCount++;
+            if(integerCount > k || nums[i] > mid ){
+                return false;
+            }
+                nums_sum = nums[i];
+        }
+      }
+      return true;
     }
 public:
     int splitArray(vector<int>& nums, int k) {
@@ -22,21 +22,20 @@ public:
         int sum = 0;
         for(int i=0; i<nums.size(); i++){
             sum += nums[i];
+            s = max(s, nums[i]);
         }
         int e = sum;
         int ans = -1;
-        int mid = s + (e - s)/2;
-
-        while(s<=e){
-            if( isPossible(nums, k , mid )){
+        while(s <= e){
+            int mid = s + (e - s)/2;
+            if(largest(nums , k , mid)){
                 ans = mid;
                 e = mid - 1;
             }
             else{
                 s = mid + 1;
             }
-            mid = s + (e - s)/2;
-        }
+        } 
         return ans;
     }
 };
