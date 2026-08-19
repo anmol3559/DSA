@@ -9,9 +9,9 @@ class Solution {
         int num = digits[index] - '0';
         string val = mapping[num];
         for(int i=0; i<val.length(); i++){
-        output.push_back(val[i]);
-        solve(digits, output, index + 1, ans, mapping);
-        output.pop_back();
+            output.push_back(val[i]);
+            solve(digits, output, index + 1, ans, mapping);
+            output.pop_back();
         }
     }
 public:
@@ -19,7 +19,7 @@ public:
         vector<string> ans;
         string output = "";
         string mapping[10] = { "", "" ,"abc" ,"def" ,"ghi" ,"jkl" ,"mno" ,"pqrs" ,"tuv" ,"wxyz" };
-        solve(digits, output, 0 , ans, mapping);
+        solve(digits, output, 0, ans, mapping);
         return ans;
     }
 };
