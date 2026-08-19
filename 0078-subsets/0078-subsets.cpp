@@ -14,8 +14,7 @@ public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> output;
-        int index = 0;
-        solve(nums, output, index, ans);
+        solve(nums, output, 0, ans);
         return ans;
     }
 };
