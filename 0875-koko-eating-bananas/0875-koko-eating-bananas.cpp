@@ -1,24 +1,25 @@
 class Solution {
-    bool canEat(vector<int>& piles, int h, int k){
-        long long totalHours = 0;
-        for(int i = 0; i < piles.size(); i++){
-            totalHours += (piles[i] + k - 1) / k;
-        }
-        return totalHours <= h;
-    }
 public:
+    long long func(vector<int>& piles, int mid) {
+        long long total_hrs = 0;
+        for (int i = 0; i < piles.size(); i++) {
+            total_hrs += (piles[i] + mid - 1) / mid;
+        }
+        return total_hrs;
+    }
+
     int minEatingSpeed(vector<int>& piles, int h) {
-        int s = 1;
-        int e = *max_element(piles.begin(), piles.end());
-        int ans = -1;
-        while(s <= e){
-            int mid = s + (e - s)/2;
-            if(canEat(piles, h, mid)){
+        int low = 1;
+        int high = *max_element(piles.begin(), piles.end());
+        int ans = high;
+        while (low <= high) {
+            int mid = low + ((high - low) / 2);
+            long long total_hrs = func(piles, mid);
+            if (total_hrs <= h) {
                 ans = mid;
-                e = mid - 1;
-            }
-            else{
-                s = mid + 1;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
         return ans;
