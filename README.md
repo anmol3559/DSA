@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anmol3559/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/anmol3559/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/anmol3559/DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/anmol3559/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/anmol3559/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anmol3559/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anmol3559/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -234,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anmol3559/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/anmol3559/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anmol3559/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
