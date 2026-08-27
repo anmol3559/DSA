@@ -5,6 +5,7 @@ class Solution {
             ans.push_back(output);
             return;
         }
+
         solve(nums, output, ans, index + 1);
 
         int element = nums[index];
