@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anmol3559/DSA/tree/master/0509-fibonacci-number) |
 | [0910-smallest-range-ii](https://github.com/anmol3559/DSA/tree/master/0910-smallest-range-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anmol3559/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2485-find-the-pivot-integer](https://github.com/anmol3559/DSA/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anmol3559/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/anmol3559/DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/anmol3559/DSA/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/anmol3559/DSA/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
