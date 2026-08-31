@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anmol3559/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anmol3559/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/anmol3559/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anmol3559/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/anmol3559/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/anmol3559/DSA/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anmol3559/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
