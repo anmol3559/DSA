@@ -9,26 +9,24 @@
  * };
  */
 class Solution {
-    int getlength(ListNode* head){
-        ListNode* temp = head;
-        int len = 0;
-        while(temp != NULL){
-            temp = temp -> next;
-            len ++;
+    ListNode* getmiddle(ListNode* head){
+        if(head == NULL || head -> next == NULL)
+        {
+            return head;
         }
-        return len;
+        ListNode* fast = head -> next;
+        ListNode* slow = head;
+        while(fast != NULL){
+            fast = fast -> next;
+            if(fast != NULL){
+                fast = fast -> next;
+            }
+            slow = slow -> next;
+        }
+        return slow;
     }
 public:
     ListNode* middleNode(ListNode* head) {
-        int len = getlength(head);
-        int ans = len/2;
-
-        ListNode* temp = head;
-        int cnt = 0;
-        while(cnt < ans){
-            temp = temp -> next;
-            cnt ++;
-        }
-        return temp;
+        return getmiddle(head);
     }
 };
