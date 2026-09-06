@@ -22,11 +22,10 @@ public:
                 if (slow == NULL) {
                     return NULL;
                 }
-                ListNode* intersection = slow;
                 slow = head;
-                while (slow != intersection) {
+                while (slow != fast) {
                     slow = slow->next;
-                    intersection = intersection->next;
+                    fast = fast->next;
                 }
                 return slow;
             }
