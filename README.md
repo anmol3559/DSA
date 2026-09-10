@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anmol3559/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anmol3559/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/anmol3559/DSA/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/anmol3559/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anmol3559/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anmol3559/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/anmol3559/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anmol3559/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anmol3559/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anmol3559/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/anmol3559/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anmol3559/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anmol3559/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anmol3559/DSA/tree/master/0206-reverse-linked-list) |
