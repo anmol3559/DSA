@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anmol3559/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/anmol3559/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/anmol3559/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anmol3559/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anmol3559/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anmol3559/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anmol3559/DSA/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/anmol3559/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anmol3559/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/anmol3559/DSA/tree/master/0905-sort-array-by-parity) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anmol3559/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anmol3559/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anmol3559/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anmol3559/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/anmol3559/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anmol3559/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anmol3559/DSA/tree/master/0283-move-zeroes) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/anmol3559/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/anmol3559/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anmol3559/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anmol3559/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/anmol3559/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anmol3559/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anmol3559/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anmol3559/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anmol3559/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
