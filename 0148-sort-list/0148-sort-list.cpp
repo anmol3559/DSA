@@ -46,8 +46,9 @@ private:
             temp->next = right;
         }
 
-        ans = ans->next;
-        return ans;
+        ListNode* result = ans->next;
+        delete ans;
+        return result;
     }
 
 public:
